@@ -1,0 +1,54 @@
+{
+  "itemId" : "_D3liwIWqEeuSwJpYPs0XoA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_MQOkEHeFEeu5SpvT1YYtAA",
+    "parameterList" : [ {
+      "id" : "_ROCbR3gcEeut2_k35niY7w",
+      "name" : "ORCL_ADDPARAM"
+    }, {
+      "id" : "_ROCbRngcEeut2_k35niY7w",
+      "name" : "ORCL_DBNAME"
+    }, {
+      "id" : "_ROCbQXgcEeut2_k35niY7w",
+      "name" : "ORCL_HOST"
+    }, {
+      "id" : "_ROCbRXgcEeut2_k35niY7w",
+      "name" : "ORCL_PASSWORD"
+    }, {
+      "id" : "_ROCbQngcEeut2_k35niY7w",
+      "name" : "ORCL_PORT"
+    }, {
+      "id" : "_ROCbQ3gcEeut2_k35niY7w",
+      "name" : "ORCL_SCHEMA"
+    }, {
+      "id" : "_ROCbRHgcEeut2_k35niY7w",
+      "name" : "ORCL_USERNAME"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_i2aWgBYlEeyUfINczxO27Q",
+    "parameterList" : [ {
+      "id" : "_i36LVRYlEeyUfINczxO27Q",
+      "name" : "oracle_sandsys_Login"
+    }, {
+      "id" : "_i36LUxYlEeyUfINczxO27Q",
+      "name" : "oracle_sandsys_Password"
+    }, {
+      "id" : "_i36LVxYlEeyUfINczxO27Q",
+      "name" : "oracle_sandsys_AdditionalParams"
+    }, {
+      "id" : "_i36LUhYlEeyUfINczxO27Q",
+      "name" : "oracle_sandsys_ServiceName"
+    }, {
+      "id" : "_i36LURYlEeyUfINczxO27Q",
+      "name" : "oracle_sandsys_Server"
+    }, {
+      "id" : "_i36LVhYlEeyUfINczxO27Q",
+      "name" : "oracle_sandsys_Port"
+    }, {
+      "id" : "_i36LVBYlEeyUfINczxO27Q",
+      "name" : "oracle_sandsys_Schema"
+    } ]
+  } ]
+}

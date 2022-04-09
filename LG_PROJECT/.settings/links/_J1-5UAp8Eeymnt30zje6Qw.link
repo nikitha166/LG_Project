@@ -1,0 +1,29 @@
+{
+  "itemId" : "_J1-5UAp8Eeymnt30zje6Qw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_MQOkEHeFEeu5SpvT1YYtAA",
+    "parameterList" : [ {
+      "id" : "_ROCbQXgcEeut2_k35niY7w",
+      "name" : "ORCL_HOST"
+    }, {
+      "id" : "_ROCbQngcEeut2_k35niY7w",
+      "name" : "ORCL_PORT"
+    }, {
+      "id" : "_ROCbQ3gcEeut2_k35niY7w",
+      "name" : "ORCL_SCHEMA"
+    }, {
+      "id" : "_ROCbRHgcEeut2_k35niY7w",
+      "name" : "ORCL_USERNAME"
+    }, {
+      "id" : "_ROCbRXgcEeut2_k35niY7w",
+      "name" : "ORCL_PASSWORD"
+    }, {
+      "id" : "_ROCbRngcEeut2_k35niY7w",
+      "name" : "ORCL_DBNAME"
+    }, {
+      "id" : "_ROCbR3gcEeut2_k35niY7w",
+      "name" : "ORCL_ADDPARAM"
+    } ]
+  } ]
+}
