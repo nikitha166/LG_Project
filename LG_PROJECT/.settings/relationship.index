@@ -578,15 +578,7 @@
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_sE2mwHK4EeuKTMWTxmmfKA",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
     "id" : "_-aMU4FKDEeueoOJsdTYCOw - metadata",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
-    "id" : "_sE2mwHK4EeuKTMWTxmmfKA - million_rows",
     "version" : "Latest",
     "type" : "schema"
   } ]
